@@ -1,6 +1,6 @@
 {
   "name": "AnKalc",
-  "short_name": "Calculator",
+  "short_name": "Kalculator",
   "start_url": "/ankalc/",
   "display": "standalone",
   "background_color": "#ffffff",
