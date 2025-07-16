@@ -1,7 +1,7 @@
 {
   "name": "AnKalc",
   "short_name": "Kalculator",
-  "start_url": "/ankalc/",
+  "start_url": "/ankalc/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2196f3",
